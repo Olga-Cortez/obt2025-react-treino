@@ -1,2 +1,2 @@
-# obt2025-react-treino
+# pindorama-alfa
 oii
