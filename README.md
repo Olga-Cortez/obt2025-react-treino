@@ -1,2 +1,2 @@
-# pindorama-alfa
+# pindorama (alfa)
 oii
